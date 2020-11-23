@@ -1,0 +1,12 @@
+https://github.com/kleeknet/Telegram/commit/ca4f8b4c384ce649fd8d843892cdf406f093efd1
+https://github.com/explodingbarrel/facebook-android-sdk/commit/905313b784915b52c0c0900a97af1dac03199e5f
+https://github.com/ChenKaiJung/facebook-android-sdk/commit/0690322310a7c9d7d486686255e6b1fdd87acb9c
+https://github.com/bettergram/bettergram-android/commit/635d696bfbec9f536df7e8f3225417cee231bc11
+https://github.com/flixster/facebook-android-sdk/commit/ebb0d4c121df3abc7e9300e08de1166ca9c784c5
+https://github.com/Lunagram/Lunagram-android-public/commit/c37a8b5962f86f7d708dcc6cc97701ba32d51d54
+https://github.com/Appsgeyser/Custom-messenger/commit/20de32ffafba56e8df1dab24589b8463837f52e7
+https://github.com/hoavt-54/Telegram/commit/7c5b7d383b8e4a683ef57f93450b35884588f4e0
+https://github.com/IQzone-Chase/mopub-android-sdk/commit/4f4eedb693022af4a7bab743ceb96c41a228ea59
+https://github.com/ChenKaiJung/facebook-android-sdk/commit/147bbf370acecff36b9723a2a8eee6bd8421b3d6
+https://github.com/christopherperry/dagger/commit/2bbd60425946744e6057658ca0e1b351672ece0f
+https://github.com/ChenKaiJung/facebook-android-sdk/commit/93fd825ad1f445d865332374277bee8fa5d57439
